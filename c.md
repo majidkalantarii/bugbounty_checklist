@@ -4,25 +4,6 @@
 When you have done a action, don't forget to check ;)  
 Happy hunting !  
 
-## Table of Contents
-
-* [Recon on wildcard domain](#"Recon_on_wildcard_domain")
-* [Single domain](#Single_domain)
-* [Information Gathering](#Information)
-* [Configuration Management](#Configuration)
-* [Secure Transmission](#Transmission)
-* [Authentication](#Authentication)
-* [Session Management](#Session)
-* [Authorization](#Authorization)
-* [Data Validation](#Validation)
-* [Denial of Service](#Denial)
-* [Business Logic](#Business)
-* [Cryptography](#Cryptography)
-* [Risky Functionality - File Uploads](#File)
-* [Risky Functionality - Card Payment](#Card)
-* [HTML 5](#HTML)
-
-
 ## <a name="Recon_on_wildcard_domain">Recon on wildcard domain</a>  
 
 - [ ] Run amass  
